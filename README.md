@@ -2,7 +2,7 @@
 
 Producing artworks by artificial neural networks.
 
-![demo](https://fatiherikli.github.io/josef/static/animation.gif?kurwacache3)
+![demo](https://raw.githubusercontent.com/fatiherikli/josef/master/static/new-demo.gif?kurwacache3)
 
 #### Who is Josef
 
