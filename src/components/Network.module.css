@@ -1,0 +1,57 @@
+.labels {
+  overflow: hidden;
+  font-size: 13px;
+  padding-bottom: 5px;
+  padding-top: 7px;
+}
+
+.inputLayer {
+  float: left;
+  width: 25%;
+  text-align: center;
+}
+
+.outputLayer {
+  float: right;
+  width: 22%;
+  text-align: center;
+}
+
+.hiddenLayers {
+  float: left;
+  text-align: center;
+  width: 47%;
+}
+
+.neuronsInput {
+  width: 40px;
+  text-align: center;
+  background: transparent;
+  border: none;
+  outline: none;
+  font-size: 13px;
+}
+
+.adjustLayers {
+  padding-left: 15px;
+}
+
+.inlineButton {
+  cursor: default;
+}
+
+rect.inlineButton:hover {
+  fill: red;
+}
+
+text.inlineButton {
+  pointer-events: none;
+}
+
+.removeLayer {
+  fill: gray;
+}
+
+.removeLayer:hover {
+  fill: red;
+}

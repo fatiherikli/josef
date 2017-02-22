@@ -1,0 +1,72 @@
+:global(body) {
+  font-family: Helvetica, sans-serif;
+  margin: 0;
+}
+
+.container {
+  width: 800px;
+  margin: auto;
+}
+
+header {
+  overflow: hidden;
+  height: 70px;
+}
+
+header h1 {
+  float: left;
+  font-weight: normal;
+    border-bottom: 3px solid cyan;
+
+}
+
+header h3 {
+  float: left;
+  margin: 30px 15px 0;
+  font-size: 1.2em;
+  font-weight: normal;
+  color: gray;
+}
+
+.about {
+  color: #191919;
+}
+
+.about h1 {
+  font-weight: normal;
+}
+
+.about p {
+  padding: 2px 1px;
+  font-size: 1.3em;
+  line-height: 1.4em;
+}
+
+.about h1 {
+  font-size: 1.5em;
+}
+
+.about h1 span {
+  display: inline-block;
+  border-bottom: 5px solid cyan;
+}
+
+.about a,
+footer a {
+  border-bottom: 3px solid cyan;
+  display: inline-block;
+  text-decoration: none;
+  color: black;
+}
+
+footer {
+  font-size: 1.4em;
+  margin: 20px 0 0px;
+  padding: 10px 2px 50px;
+  text-align: left;
+}
+
+footer a {
+  margin-top: 5px;
+  border-bottom: 5px solid cyan;
+}

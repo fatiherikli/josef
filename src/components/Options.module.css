@@ -1,0 +1,77 @@
+.container {
+  float: left;
+  width: calc(100% - 450px);
+}
+
+.section {
+  margin: 0 10px 10px 0;
+  background: #eee;
+  padding: 20px;
+  overflow: hidden;
+}
+
+.section p {
+  color: gray;
+}
+
+.section h3 {
+  margin: 0 0 10px;
+  color: gray;
+  font-weight: normal;
+}
+
+.section button {
+  background: #ddd;
+  display: inline-block;
+  border: none;
+  padding: 7px 10px;
+  cursor: pointer;
+}
+
+.section button:hover {
+  background-color: white;
+}
+
+.grammar {
+  background: #ddd;
+  border: 0;
+  width: calc(100% - 23px);
+  resize: none;
+  outline: none;
+  border: 2px solid #ccc;
+  padding: 10px;
+}
+
+.drawButton {
+  float: right;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  font-size: 0.8em;
+}
+
+ul li {
+  list-style: none;
+  margin: 0;
+  padding: 3px;
+  border-bottom: 1px solid #ddd;
+}
+
+ul li strong {
+  display: inline-block;
+  width: 50px;
+  font-weight: normal;
+}
+
+ul li span {
+  display: inline-block;
+  padding: 3px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  color: gray;
+  width: 10px;
+  text-align: center;
+  margin-right: 1px;
+}
