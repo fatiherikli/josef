@@ -1,6 +1,6 @@
 ### Josef
 
-Just for fun purpose.
+Artworks by artificial neural networks.
 
 ![demo](https://fatiherikli.github.io/josef/static/animation.gif?kurwacache1)
 
