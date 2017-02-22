@@ -2,11 +2,11 @@
 
 Just for fun purpose.
 
-![demo](https://fatiherikli.github.io/josef/static/animation.gif?kurwacache)
+![demo](https://fatiherikli.github.io/josef/static/animation.gif?kurwacache1)
 
 #### Who is Josef
 
-Josef is feedforward neural network based on synapticjs and distant relative of Istanbul's famous robot poet [https://vimeo.com/161035144](Deniz Yilmaz).
+Josef is feedforward neural network based on synapticjs and distant relative of Istanbul's famous robot poet [Deniz Yilmaz](https://vimeo.com/161035144).
 
 #### How does it work
 The network tries to predict next action of the drawing grammar. Works like an Lindenmayer interpreter running by a neural network which is a non-deterministic way to evaluate that kind of self-rewriting systems.
