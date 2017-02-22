@@ -1,8 +1,8 @@
 ### Josef
 
-Artworks by artificial neural networks.
+Producing artworks by artificial neural networks.
 
-![demo](https://fatiherikli.github.io/josef/static/animation.gif?kurwacache1)
+![demo](https://fatiherikli.github.io/josef/static/animation.gif?kurwacache2)
 
 #### Who is Josef
 
