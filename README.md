@@ -2,11 +2,11 @@
 
 Producing artworks by artificial neural networks.
 
-![demo](https://fatiherikli.github.io/josef/static/example.PNG?kurwacache3)
+![demo](https://fatiherikli.github.io/josef/static/animation.gif?kurwacache3)
 
 #### Who is Josef
 
-Josef is feedforward neural network based on synapticjs and distant relative of Istanbul's famous robot poet [Deniz Yilmaz](https://vimeo.com/161035144).
+Josef is feedforward neural network based on synapticjs and a distant relative of Istanbul's famous robot poet [Deniz Yilmaz](https://vimeo.com/161035144).
 
 #### How does it work
 The network tries to predict next action of the drawing grammar. Works like an Lindenmayer interpreter running by a neural network which is a non-deterministic way to evaluate that kind of self-rewriting systems.
